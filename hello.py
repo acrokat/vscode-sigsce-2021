@@ -6,4 +6,4 @@ def cats_or_dogs():
 
 if __name__ == '__main__':
     hello_world()
-    give_name()
+    cats_or_dogs()
