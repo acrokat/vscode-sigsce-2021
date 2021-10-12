@@ -1,8 +1,8 @@
 def hello_world():
-    print(" ")
+    return(" ")
     
 def give_name():
-    print("My name is ")
+    return("My name is ")
 
 if __name__ == '__main__':
     hello_world()
