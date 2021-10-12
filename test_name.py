@@ -1,4 +1,4 @@
 import hello;
 
-def test_name():
-   assert hello.give_name() == "My name is*"
+def test_catsordogs():
+   assert hello.cats_or_dogs() == "cats AND dogs"
