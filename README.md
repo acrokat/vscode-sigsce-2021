@@ -1,4 +1,4 @@
-# Welcome to Python!
+# Welcome to Python functions!
 We are going to be using VS Code for this assignment. Clicking the button above will download VS Code, install the GitHub Classroom extension, and open you right to this assignment! Once in VS Code, you can view your assignments and Classrooms, view your autograding scores, and collaborate with others using LiveShare.
 
 ## The assignment
